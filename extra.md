@@ -4,7 +4,7 @@
 * {infomation here}
 
 ## LITE
-* This is a version of Kitty-Tools that is ment to run on slower systems as it doesn't have as many graphical effects so it should be faster, it also doesn't have as many non requires modules so it shouldn't run into any error!
+* This is a version of Kitty-Tools that is meant to run on slower systems as it doesn't have as many graphical effects so it should be faster, it also doesn't have as many optional modules so it shouldn't run into any errors!
 
 ## Definitions
 * apt: Advanced Package Tool (High level package installer)
