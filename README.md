@@ -96,6 +96,7 @@ Kitty-Tools is a comprehensive suite of utilities designed for enhancing and ana
 
 #### Codespace
 1. Create a new Codespace based on the repository
+ <img width="410" height="402" alt="Screenshot 2026-01-15 at 12 54 55 PM" src="https://github.com/user-attachments/assets/0c3f56ec-2b02-49cd-8ade-b0d7cca81170" />
 2. In the terminal, run:
    ```bash
    python main.py
@@ -119,8 +120,8 @@ The Answer Viewer module allows you to retrieve answers for Kahoot quizzes:
 3. Enter the Kahoot Quiz ID (not the Game PIN)
 <img width="499" height="29" alt="image" src="https://github.com/user-attachments/assets/a2870491-0e08-415c-95a0-ac0151ee9bf8" />
 
-5. View answers displayed in an organized format
-6. Optionally export answers to a text file
+4. View answers displayed in an organized format
+5. Optionally export answers to a text file
 
 ### 2. Kahoot Flooder
 
